@@ -1,0 +1,33 @@
+.email{
+    border-radius: 5px;
+}
+
+.login{
+    background-image: url(../Login/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpeg);
+    background-size: contain;
+    background-repeat:no-repeat;
+    padding-top: 300px;
+    padding-bottom: 1000px;
+    
+    padding-left: 500px;
+}
+
+.label{
+    text-decoration: solid;
+    text-decoration-color: red;
+    text-decoration: blue;
+    
+}
+
+
+.button{
+    border-radius: 50px;
+    color: blue;
+    text-decoration-color: black;
+    padding-left: 30;
+}
+
+.heading{
+    text-align: justify;
+    text-decoration: blue;
+}
